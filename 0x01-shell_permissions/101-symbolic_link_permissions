@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:staff _hello
+sudo chown -h betty:staff _hello
